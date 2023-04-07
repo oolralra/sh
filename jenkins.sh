@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#jenkins install on Ubuntu 20.04
+
 sudo apt -y update
 
 sudo apt -y install openjdk-11-jre
